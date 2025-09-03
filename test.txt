@@ -1,3 +1,6 @@
 my name is Kim 
 
 I am studying at Tafe
+
+
+I am studying Cert IV in Information Technology (Data Science and AI)
